@@ -1,0 +1,25 @@
+To create, read, write and update files.
+
+To use classes File and Directory to obtain information about files and directories on your computer.
+
+To become familiar with sequential-access file processing.
+
+To use classes FileStream, StreamReader and StreamWriter to read text from and write text to files.
+
+To use classes FileStream and BinaryFormatter to read objects from and write objects to files.
+
+Search for a given value in an array using the linear search and binary search algorithms.
+
+Sort arrays using the selection and insertion sort algorithms.
+
+Sort arrays using the recursive merge sort algorithm.
+
+
+Read assigned chapters:
+Chapter 17:
+Chapter 18:
+Review the attached documents: (PDFs, Powerpoints, etc.)
+InputOutput PowerPoint
+Chapter 18 PPT
+View the following video:
+Click here to login and watch the chapter VideoNotes

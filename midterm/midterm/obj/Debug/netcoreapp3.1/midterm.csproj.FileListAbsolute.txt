@@ -1,0 +1,13 @@
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.exe
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.deps.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.runtimeconfig.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.runtimeconfig.dev.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\bin\Debug\netcoreapp3.1\midterm.pdb
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.pdb
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\midterm\midterm\obj\Debug\netcoreapp3.1\midterm.genruntimeconfig.cache

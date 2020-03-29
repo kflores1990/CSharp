@@ -1,0 +1,11 @@
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.exe
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.deps.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.runtimeconfig.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.runtimeconfig.dev.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\bin\Debug\netcoreapp3.1\DemoCarLoan.pdb
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\obj\Debug\netcoreapp3.1\DemoCarLoan.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\obj\Debug\netcoreapp3.1\DemoCarLoan.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\obj\Debug\netcoreapp3.1\DemoCarLoan.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\obj\Debug\netcoreapp3.1\DemoCarLoan.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan\DemoCarLoan\obj\Debug\netcoreapp3.1\DemoCarLoan.pdb

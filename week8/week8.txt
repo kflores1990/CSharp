@@ -1,0 +1,24 @@
+Chapter 13 Objectives
+Upon completion of this lesson, students will: 
+
+What exceptions are and how they’re handled.
+When to use exception handling.
+To use try blocks to delimit code in which exceptions might occur.
+To throw exceptions to indicate a problem.
+To use catch blocks to specify exception handlers.
+To use the finally block to release resources.
+The .NET exception class hierarchy.
+Exception properties.
+To create user-defined exceptions.
+
+Learning Activities
+Read assigned chapters:
+Chapter 13
+Review the attached documents: (PDFs, Powerpoints, etc.)
+Chapter 13 PowerPoint
+
+
+Assignments
+Complete the following graded assignments:
+
+Assignment 6

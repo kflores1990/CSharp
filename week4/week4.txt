@@ -1,0 +1,23 @@
+Chapter 10 Objectives
+Upon completion of this lesson, students will: 
+
+Understand encapsulation and data hiding.
+Use composition to allow a class to have references to objects of other classes as members.
+Throw an exception to indicate that an argument is out of range.
+Use keyword this. Use static variables and methods.
+Use readonly fields. Take advantage of C#’s memory-management features.
+Use the IDE’s Class View and Object Browser windows.
+Use object initializers tocreate an object and initialize it in the same statement.
+
+
+Read assigned chapters:
+Chapter 10
+Review the attached documents: (PDFs, Powerpoints, etc.)
+Chapter 10 PowerPoint
+View the following video:
+Click here to login and watch the chapter VideoNotes
+
+Assignments
+Complete the following graded assignments:
+
+Assignment 2

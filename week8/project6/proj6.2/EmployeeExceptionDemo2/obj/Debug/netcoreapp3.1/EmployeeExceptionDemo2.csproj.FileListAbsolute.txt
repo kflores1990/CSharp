@@ -1,0 +1,11 @@
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.exe
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.deps.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.runtimeconfig.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.runtimeconfig.dev.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\bin\Debug\netcoreapp3.1\EmployeeExceptionDemo2.pdb
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\obj\Debug\netcoreapp3.1\EmployeeExceptionDemo2.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\obj\Debug\netcoreapp3.1\EmployeeExceptionDemo2.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\obj\Debug\netcoreapp3.1\EmployeeExceptionDemo2.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\obj\Debug\netcoreapp3.1\EmployeeExceptionDemo2.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week8\project6\proj6.2\EmployeeExceptionDemo2\obj\Debug\netcoreapp3.1\EmployeeExceptionDemo2.pdb

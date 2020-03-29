@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\DemoCarLoan2\DemoCarLoan2.cs" Link="DemoCarLoan2.cs" />
+  </ItemGroup>
+
+</Project>

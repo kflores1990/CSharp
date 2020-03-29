@@ -1,0 +1,11 @@
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.exe
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.deps.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.runtimeconfig.dev.json
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\bin\Debug\netcoreapp3.1\assignment3.pdb
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\obj\Debug\netcoreapp3.1\assignment3.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfoInputs.cache
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.cs
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\obj\Debug\netcoreapp3.1\assignment3.dll
+C:\Users\Kyle\Desktop\spring sem\adv prog\weeks\week5\chap11\assignment3\obj\Debug\netcoreapp3.1\assignment3.pdb
