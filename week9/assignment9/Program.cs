@@ -6,6 +6,7 @@ namespace assignment9
     {
         static void Main(string[] args)
         {
+            Manager man1 = new Manager();
 
 
         }

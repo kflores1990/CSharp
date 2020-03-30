@@ -1,0 +1,13 @@
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.exe
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.deps.json
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.runtimeconfig.json
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.runtimeconfig.dev.json
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.dll
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\bin\Debug\netcoreapp3.1\assignment9.pdb
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.csprojAssemblyReference.cache
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.csproj.CoreCompileInputs.cache
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.AssemblyInfoInputs.cache
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.AssemblyInfo.cs
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.dll
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.pdb
+C:\Users\kyle\Desktop\Code\adv prog\midterm\CSharp\week9\assignment9\obj\Debug\netcoreapp3.1\assignment9.genruntimeconfig.cache
